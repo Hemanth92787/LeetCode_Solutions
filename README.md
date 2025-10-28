@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
