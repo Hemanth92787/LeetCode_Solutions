@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
