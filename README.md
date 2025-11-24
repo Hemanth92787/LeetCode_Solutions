@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union Find
 |  |
 | ------- |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0541-reverse-string-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
