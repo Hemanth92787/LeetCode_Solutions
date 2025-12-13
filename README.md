@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0541-reverse-string-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0541-reverse-string-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0541-reverse-string-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -76,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+## Stack
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
