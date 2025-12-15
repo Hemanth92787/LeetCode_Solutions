@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
