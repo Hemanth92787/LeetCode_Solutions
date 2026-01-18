@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [2974-minimum-number-game](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [2974-minimum-number-game](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [2974-minimum-number-game](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [2974-minimum-number-game](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
