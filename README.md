@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0162-find-peak-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
