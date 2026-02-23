@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union Find
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [2974-minimum-number-game](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 ## Greedy
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Hemanth92787/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
